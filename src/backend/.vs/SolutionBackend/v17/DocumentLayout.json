@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|solutionrelative:src\\product\\product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E92A468-B7A2-47BE-9521-3246D80CF9FB}|src\\Product\\Product.Infrastructure.ElasticSearch\\Product.Infrastructure.ElasticSearch.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.infrastructure.elasticsearch\\documents\\productdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E92A468-B7A2-47BE-9521-3246D80CF9FB}|src\\Product\\Product.Infrastructure.ElasticSearch\\Product.Infrastructure.ElasticSearch.csproj|solutionrelative:src\\product\\product.infrastructure.elasticsearch\\documents\\productdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A503CB3F-3572-47AD-8597-7DD76902DC68}|src\\Shared\\Shared.Infrasctructure.Orm\\Shared.Infrasctructure.Orm.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\shared\\shared.infrasctructure.orm\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A503CB3F-3572-47AD-8597-7DD76902DC68}|src\\Shared\\Shared.Infrasctructure.Orm\\Shared.Infrasctructure.Orm.csproj|solutionrelative:src\\shared\\shared.infrasctructure.orm\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Product\\Product.WebApi\\Program.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Product\\Product.WebApi\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:57:59.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDocument.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Infrastructure.ElasticSearch\\Documents\\ProductDocument.cs",
+              "RelativeDocumentMoniker": "src\\Product\\Product.Infrastructure.ElasticSearch\\Documents\\ProductDocument.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Infrastructure.ElasticSearch\\Documents\\ProductDocument.cs",
+              "RelativeToolTip": "src\\Product\\Product.Infrastructure.ElasticSearch\\Documents\\ProductDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:57:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultDbContext.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Shared\\Shared.Infrasctructure.Orm\\DefaultDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Shared\\Shared.Infrasctructure.Orm\\DefaultDbContext.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Shared\\Shared.Infrasctructure.Orm\\DefaultDbContext.cs",
+              "RelativeToolTip": "src\\Shared\\Shared.Infrasctructure.Orm\\DefaultDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:53:01.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

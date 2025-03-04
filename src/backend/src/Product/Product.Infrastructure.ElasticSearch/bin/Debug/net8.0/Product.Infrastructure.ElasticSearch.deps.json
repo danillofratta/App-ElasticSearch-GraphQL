@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Product.Infrastructure.ElasticSearch/1.0.0": {
+        "runtime": {
+          "Product.Infrastructure.ElasticSearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Product.Infrastructure.ElasticSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

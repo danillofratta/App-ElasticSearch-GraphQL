@@ -1,0 +1,11 @@
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\bin\Debug\net8.0\Product.Infrastructure.ElasticSearch.deps.json
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\bin\Debug\net8.0\Product.Infrastructure.ElasticSearch.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\bin\Debug\net8.0\Product.Infrastructure.ElasticSearch.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\Product.Infrastructure.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\Product.Infrastructure.ElasticSearch.AssemblyInfoInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\Product.Infrastructure.ElasticSearch.AssemblyInfo.cs
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\Product.Infrastructure.ElasticSearch.csproj.CoreCompileInputs.cache
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\Product.Infrastructure.ElasticSearch.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\refint\Product.Infrastructure.ElasticSearch.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\Product.Infrastructure.ElasticSearch.pdb
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.Infrastructure.ElasticSearch\obj\Debug\net8.0\ref\Product.Infrastructure.ElasticSearch.dll
