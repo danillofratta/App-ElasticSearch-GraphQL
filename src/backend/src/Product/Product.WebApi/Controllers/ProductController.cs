@@ -3,14 +3,12 @@ using Base.WebApi;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Nest;
-using Product.Core.Application.Product.Elastic.Query.GetById;
-using Product.Core.Application.Product.Repository.Command.Create;
-using Product.Core.Application.Product.Repository.Command.Delete;
-using Product.Core.Application.Product.Repository.Command.Modify;
-using Product.Core.Application.Product.Repository.Query.Get;
-using Product.Core.Application.Product.Repository.Query.GetName;
+using Product.Core.Application.Product.Command.Create;
+using Product.Core.Application.Product.Command.Delete;
+using Product.Core.Application.Product.Command.Modify;
+using Product.Core.Application.Product.Query.GetById;
+using Product.Core.Application.Product.Query.GetByName;
 using Product.Core.Domain.Repository;
-using System.Threading;
 
 namespace ApiStock.Controller
 {
@@ -52,7 +50,7 @@ namespace ApiStock.Controller
         {
             try
             {                
-                var response = await _mediator.Send(new Product.Core.Application.Product.Repository.Query.Get.GetProductByIdQuery(id), cancellationToken);
+                var response = await _mediator.Send(new Product.Core.Application.Product.Query.GetById.GetProductByIdQuery(id), cancellationToken);
 
                 return Ok(new ApiResponseWithData<GetProductByIdQueryResult>
                 {
@@ -81,7 +79,7 @@ namespace ApiStock.Controller
         {
             try
             {
-                var response = await _mediator.Send(new Product.Core.Application.Product.Repository.Query.GetName.GetProductByNameQuery(name), cancellationToken);
+                var response = await _mediator.Send(new Product.Core.Application.Product.Query.GetByName.GetProductByNameQuery(name), cancellationToken);
 
                 return Ok(new ApiResponseWithData<List<GetProductByNameQueryResult>>
                 {

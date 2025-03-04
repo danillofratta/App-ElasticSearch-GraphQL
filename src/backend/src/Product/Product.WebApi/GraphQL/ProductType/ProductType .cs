@@ -1,6 +1,4 @@
-﻿using HotChocolate.Types;
-using Product.Core.Application.Product.Event.Create;
-using Product.Core.Application.Product.Repository.Query.GetAll;
+﻿using Product.Core.Application.Product.Event.Create;
 
 namespace Product.WebApi.GraphQL.ProductType;
 

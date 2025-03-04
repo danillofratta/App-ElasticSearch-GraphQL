@@ -2,8 +2,8 @@
 using MediatR;
 using Product.Core.Application.Product.Elastic.Query.GetAll;
 using Product.Core.Application.Product.Event.Create;
-using Product.Core.Application.Product.Repository.Query.Get;
-using Product.Core.Application.Product.Repository.Query.GetName;
+using Product.Core.Application.Product.Query.GetById;
+using Product.Core.Application.Product.Query.GetByName;
 
 namespace Product.WebApi.GraphQL;
 
@@ -36,9 +36,9 @@ public class ProductQuery
 
     [GraphQLName("getProductById")]
     public async Task<GetProductByIdQueryResult> GetProductById(Guid id) =>
-        await _mediator.Send(new Core.Application.Product.Repository.Query.Get.GetProductByIdQuery(id));
+        await _mediator.Send(new Core.Application.Product.Query.GetById.GetProductByIdQuery(id));
 
     [GraphQLName("getProductsByName")]
     public async Task<IReadOnlyList<GetProductByNameQueryResult>> GetProductsByName(string name) =>
-        await _mediator.Send(new Core.Application.Product.Repository.Query.GetName.GetProductByNameQuery(name));
+        await _mediator.Send(new Core.Application.Product.Query.GetByName.GetProductByNameQuery(name));
 }

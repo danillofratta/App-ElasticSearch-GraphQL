@@ -375,3 +375,4 @@ C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\
 C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.WebApi\bin\Debug\net8.0\GreenDonut.Data.EntityFramework.dll
 C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.WebApi\bin\Debug\net8.0\HotChocolate.Data.dll
 C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.WebApi\bin\Debug\net8.0\HotChocolate.Data.EntityFramework.dll
+C:\1 Arquivos\TI\0 Dev\GitHub\App-ElasticSearch-GraphQL\src\backend\src\Product\Product.WebApi\obj\Debug\net8.0\Product.WebApi.sourcelink.json

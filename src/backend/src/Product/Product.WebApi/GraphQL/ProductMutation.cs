@@ -1,10 +1,10 @@
 ﻿using HotChocolate;
 using MediatR;
 using Nest;
+using Product.Core.Application.Product.Command.Create;
+using Product.Core.Application.Product.Command.Delete;
+using Product.Core.Application.Product.Command.Modify;
 using Product.Core.Application.Product.Event.Create;
-using Product.Core.Application.Product.Repository.Command.Create;
-using Product.Core.Application.Product.Repository.Command.Delete;
-using Product.Core.Application.Product.Repository.Command.Modify;
 
 namespace Product.WebApi.GraphQL;
 
