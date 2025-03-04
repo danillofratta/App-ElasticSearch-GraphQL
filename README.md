@@ -11,7 +11,7 @@ Este projeto as seguintes tecnologias:
   *	CQRS
   *	EDD  
   *	MediatR
-  *	Regis 
+  *	Redis 
   *	ElasticSeach
   *	GraphQL
   *	Entity
