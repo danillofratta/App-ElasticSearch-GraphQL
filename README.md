@@ -18,27 +18,27 @@ Este projeto as seguintes tecnologias:
  
 # Rodar no Dokcer:
 
-ElasticSeach:
+* ElasticSeach:
 docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "ES_JAVA_OPTS=-Xms512m -Xmx512m" -e "xpack.security.enabled=false" docker.elastic.co/elasticsearch/elasticsearch:8.11.1
 
 docker pull docker.elastic.co/elasticsearch/elasticsearch:8.11.1
 
-Redis:
+* Redis:
 docker run -d -p 6379:6379 redis
 
-Postgres:
+* Postgres:
 docker run -d --name postgres-apitest -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=root -e POSTGRES_DB=apitest -p 5432:5432 postgres:15
 
-DotNet migration:
+* DotNet migration:
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 
 # Usando com GraphQL
 
-Url: https://localhost:7105/api/v1/graphql/
+* Url: https://localhost:7105/api/v1/graphql/
 
-Exemplos:
-mutation {
+* Exemplos:
+* mutation {
   createProduct(name: "Teste", price: 11) {
     id
     name
@@ -46,7 +46,7 @@ mutation {
   }
 }
 
-mutation {
+* mutation {
   updateProduct(
     id: "01956213-1264-73a1-93ab-35f93a929cf8"
     name: "Updated Product Name"
@@ -59,7 +59,7 @@ mutation {
 }
 
 Busca do banco de dados
-query {
+* query {
   getProductById (
     id: "01956213-1264-73a1-93ab-35f93a929cf8"
   ) {
@@ -70,7 +70,7 @@ query {
 }
 
 Busca ElasticSeach
-query {
+* query {
   getElasticProductById (
     id: "01956213-1264-73a1-93ab-35f93a929cf8"
   ) {
@@ -81,7 +81,7 @@ query {
 }
 
 Busca ElasticSeach
-query {
+* query {
   getElasticProductsByName (
     name: "aa"
   ) {
@@ -92,7 +92,7 @@ query {
 }
 
 Busca Banco
-query {
+* query {
   getProductsByName (
     name: "aa"
   ) {
