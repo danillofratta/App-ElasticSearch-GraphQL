@@ -16,37 +16,47 @@ Este projeto as seguintes tecnologias:
   *	GraphQL
   *	Entity
  
+# Projeto
+
+Feito no padrão DDD, CQRS, EDD. Quando executado algum command é disparado evento notificando handle do elastic.  
+Controlers separados para API e GraphQL  
+Exemplificado insert, udpdate e delete com graphQL.  
+Exemplicicado chamada com GraphQL para Query separadas com banco de dados e Elastic
+ 
 # Rodar no Dokcer:
 
-* ElasticSeach:
-docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "ES_JAVA_OPTS=-Xms512m -Xmx512m" -e "xpack.security.enabled=false" docker.elastic.co/elasticsearch/elasticsearch:8.11.1
+* ElasticSeach:  
+docker run -d --name elasticsearch -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" -e "ES_JAVA_OPTS=-Xms512m -Xmx512m" -e "xpack.security.enabled=false" docker.elastic.co/elasticsearch/elasticsearch:8.11.1  
 
-docker pull docker.elastic.co/elasticsearch/elasticsearch:8.11.1
+docker pull docker.elastic.co/elasticsearch/elasticsearch:8.11.1  
 
-* Redis:
+* Redis:  
 docker run -d -p 6379:6379 redis
 
-* Postgres:
-docker run -d --name postgres-apitest -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=root -e POSTGRES_DB=apitest -p 5432:5432 postgres:15
+* Postgres:  
+docker run -d --name postgres-apitest -e POSTGRES_USER=admin -e POSTGRES_PASSWORD=root -e POSTGRES_DB=apitest -p 5432:5432 postgres:15  
 
-* DotNet migration:
-dotnet ef migrations add InitialCreate
-dotnet ef database update
+* DotNet migration:  
+dotnet ef migrations add InitialCreate  
+dotnet ef database update  
 
-# Usando com GraphQL
+# Usando com GraphQL  
 
-* Url: https://localhost:7105/api/v1/graphql/
+Url: https://localhost:7105/api/v1/graphql/  
 
 * Exemplos:
-* mutation {
-  createProduct(name: "Teste", price: 11) {
+
+Insert usando graphql:     
+mutation {
+  createProduct(name: "Teste", price: 11) { 
     id
     name
     price
   }
 }
 
-* mutation {
+Update usando graphql:    
+mutation {
   updateProduct(
     id: "01956213-1264-73a1-93ab-35f93a929cf8"
     name: "Updated Product Name"
@@ -58,8 +68,15 @@ dotnet ef database update
   }
 }
 
-Busca do banco de dados
-* query {
+Delete usando graphql:    
+mutation {
+  deleteProduct(
+    id: "01956213-1264-73a1-93ab-35f93a929cf8"
+  ) 
+}
+
+Busca no banco product by id:  
+query {
   getProductById (
     id: "01956213-1264-73a1-93ab-35f93a929cf8"
   ) {
@@ -67,10 +84,10 @@ Busca do banco de dados
     name
     price
   }
-}
+}  
 
-Busca ElasticSeach
-* query {
+Busca no Ellastic product by id:  
+query {
   getElasticProductById (
     id: "01956213-1264-73a1-93ab-35f93a929cf8"
   ) {
@@ -78,10 +95,10 @@ Busca ElasticSeach
     name
     price
   }
-}
+}  
 
-Busca ElasticSeach
-* query {
+Busca no Ellastic product by name:   
+query {
   getElasticProductsByName (
     name: "aa"
   ) {
@@ -89,10 +106,10 @@ Busca ElasticSeach
     name
     price
   }
-}
+}  
 
-Busca Banco
-* query {
+Busca no banco product by name:   
+query {
   getProductsByName (
     name: "aa"
   ) {
@@ -100,7 +117,7 @@ Busca Banco
     name
     price
   }
-}
+}  
 
 ## TODO
 
