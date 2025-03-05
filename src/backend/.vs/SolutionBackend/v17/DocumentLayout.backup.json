@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\",
+  "WorkspaceRootPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.webapi\\graphql\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|solutionrelative:src\\product\\product.webapi\\graphql\\productquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|solutionrelative:src\\product\\product.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.webapi\\graphql\\producttype\\producttype .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|solutionrelative:src\\product\\product.webapi\\graphql\\producttype\\producttype .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.core.application\\product\\command\\delete\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|solutionrelative:src\\product\\product.core.application\\product\\command\\delete\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.webapi\\graphql\\productmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|solutionrelative:src\\product\\product.webapi\\graphql\\productmutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.core.application\\product\\command\\create\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|solutionrelative:src\\product\\product.core.application\\product\\command\\create\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.core.application\\product\\query\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|solutionrelative:src\\product\\product.core.application\\product\\query\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13148562-5644-46AC-9D8C-33DD1BD793F0}|src\\Product\\Product.WebApi\\Product.WebApi.csproj|solutionrelative:src\\product\\product.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.core.application\\product\\query\\getbyname\\getproductbynamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|solutionrelative:src\\product\\product.core.application\\product\\query\\getbyname\\getproductbynamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|c:\\1 arquivos\\ti\\0 dev\\github\\public\\app-elasticsearch-graphql\\src\\backend\\src\\product\\product.core.application\\product\\command\\modify\\modifyproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B0D879-A4E6-4EBE-8FBC-FB9C0557A7A6}|src\\Product\\Product.Core.Application\\Product.Core.Application.csproj|solutionrelative:src\\product\\product.core.application\\product\\command\\modify\\modifyproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,80 +54,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductQuery.cs",
-              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\GraphQL\\ProductQuery.cs",
-              "RelativeDocumentMoniker": "src\\Product\\Product.WebApi\\GraphQL\\ProductQuery.cs",
-              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\GraphQL\\ProductQuery.cs*",
-              "RelativeToolTip": "src\\Product\\Product.WebApi\\GraphQL\\ProductQuery.cs*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAcwCoAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:19:00.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductType .cs",
-              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\GraphQL\\ProductType\\ProductType .cs",
-              "RelativeDocumentMoniker": "src\\Product\\Product.WebApi\\GraphQL\\ProductType\\ProductType .cs",
-              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\GraphQL\\ProductType\\ProductType .cs",
-              "RelativeToolTip": "src\\Product\\Product.WebApi\\GraphQL\\ProductType\\ProductType .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:18:51.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductMutation.cs",
-              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\GraphQL\\ProductMutation.cs",
-              "RelativeDocumentMoniker": "src\\Product\\Product.WebApi\\GraphQL\\ProductMutation.cs",
-              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\GraphQL\\ProductMutation.cs",
-              "RelativeToolTip": "src\\Product\\Product.WebApi\\GraphQL\\ProductMutation.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAowDEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:18:29.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetProductByNameQueryHandler.cs",
-              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Query\\GetByName\\GetProductByNameQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Product\\Product.Core.Application\\Product\\Query\\GetByName\\GetProductByNameQueryHandler.cs",
-              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Query\\GetByName\\GetProductByNameQueryHandler.cs",
-              "RelativeToolTip": "src\\Product\\Product.Core.Application\\Product\\Query\\GetByName\\GetProductByNameQueryHandler.cs",
+              "Title": "DeleteProductHandler.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Command\\Delete\\DeleteProductHandler.cs",
+              "RelativeDocumentMoniker": "src\\Product\\Product.Core.Application\\Product\\Command\\Delete\\DeleteProductHandler.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Command\\Delete\\DeleteProductHandler.cs",
+              "RelativeToolTip": "src\\Product\\Product.Core.Application\\Product\\Command\\Delete\\DeleteProductHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:17:59.276Z",
+              "WhenOpened": "2025-03-05T02:24:32.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "src\\Product\\Product.WebApi\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "src\\Product\\Product.WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFEAAABoAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Product\\Product.WebApi\\Program.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Product\\Product.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:17:03.332Z",
+              "WhenOpened": "2025-03-05T02:24:14.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GetProductByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Query\\GetById\\GetProductByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "src\\Product\\Product.Core.Application\\Product\\Query\\GetById\\GetProductByIdQueryHandler.cs",
-              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Query\\GetById\\GetProductByIdQueryHandler.cs",
-              "RelativeToolTip": "src\\Product\\Product.Core.Application\\Product\\Query\\GetById\\GetProductByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Title": "ModifyProductHandler.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Command\\Modify\\ModifyProductHandler.cs",
+              "RelativeDocumentMoniker": "src\\Product\\Product.Core.Application\\Product\\Command\\Modify\\ModifyProductHandler.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Command\\Modify\\ModifyProductHandler.cs",
+              "RelativeToolTip": "src\\Product\\Product.Core.Application\\Product\\Command\\Modify\\ModifyProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T18:15:32.768Z",
+              "WhenOpened": "2025-03-05T02:24:11.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Command\\Create\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "src\\Product\\Product.Core.Application\\Product\\Command\\Create\\CreateProductHandler.cs",
+              "ToolTip": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product\\Command\\Create\\CreateProductHandler.cs",
+              "RelativeToolTip": "src\\Product\\Product.Core.Application\\Product\\Command\\Create\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:24:04.071Z",
               "EditorCaption": ""
             }
           ]

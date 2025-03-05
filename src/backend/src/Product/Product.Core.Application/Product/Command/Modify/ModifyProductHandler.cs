@@ -3,7 +3,6 @@ using FluentValidation;
 using AutoMapper;
 using Product.Core.Domain.Repository;
 using Product.Core.Application.Product.Elastic.EventElastic.Create;
-using Base.Infrastructure.Messaging;
 
 namespace Product.Core.Application.Product.Command.Modify
 {

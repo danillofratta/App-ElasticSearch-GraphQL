@@ -2,10 +2,7 @@
 using FluentValidation;
 using AutoMapper;
 using Product.Core.Domain.Repository;
-using Nest;
 using Product.Core.Application.Product.Elastic.EventElastic.Create;
-using Base.Infrastructure.Messaging;
-
 
 namespace Product.Core.Application.Product.Command.Delete
 {

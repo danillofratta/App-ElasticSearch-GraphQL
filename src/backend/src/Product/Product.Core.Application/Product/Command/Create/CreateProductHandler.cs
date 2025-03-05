@@ -2,8 +2,6 @@
 using FluentValidation;
 using Product.Core.Domain.Repository;
 using AutoMapper;
-using Base.Infrastructure.Messaging;
-using Product.Core.Application.Product.Event.Create;
 using Product.Core.Application.Product.Elastic.EventElastic.Create;
 
 namespace Product.Core.Application.Product.Command.Create

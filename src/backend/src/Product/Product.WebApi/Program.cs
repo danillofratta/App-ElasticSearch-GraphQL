@@ -1,8 +1,5 @@
-using Base.Infrastructure.Messaging;
 using HotChocolate.AspNetCore;
-using MediatR;
 using Nest;
-using Product.Core.Application.Product.Elastic.Query.GetAll;
 using Product.Core.Appplication;
 using Product.Core.Domain.Repository;
 using Product.Infrastructure.Orm.Repository;
@@ -71,10 +68,7 @@ builder.WebHost.ConfigureKestrel(options =>
 #endif
 builder.Services.AddSingleton<IRedisCacheService, RedisCacheService>();
 
-builder.Services.AddScoped<IMessageBus, InMemoryMessageBus>();
-
 var app = builder.Build();
-
 
 // Configure the HTTP request pipeline.
 // Configure the HTTP request pipeline.

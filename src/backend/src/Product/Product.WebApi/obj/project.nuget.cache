@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yp2kD3UXoYQ=",
+  "dgSpecHash": "qUphyGtjyH8=",
   "success": true,
-  "projectFilePath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Product.WebApi.csproj",
+  "projectFilePath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Product.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\bananacakepop.middleware\\17.0.0\\bananacakepop.middleware.17.0.0.nupkg.sha512",
@@ -78,7 +78,7 @@
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencymodel\\2.1.0\\microsoft.extensions.dependencymodel.2.1.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0\\microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.1\\microsoft.extensions.diagnostics.abstractions.8.0.1.nupkg.sha512",

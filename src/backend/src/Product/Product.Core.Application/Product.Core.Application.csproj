@@ -15,7 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Base\Base.Infrastructure.Messaging\Base.Infrastructure.Messaging.csproj" />
     <ProjectReference Include="..\Product.Core.Domain\Product.Core.Domain.csproj" />
     <ProjectReference Include="..\Product.Infrastructure.ElasticSearch\Product.Infrastructure.ElasticSearch.csproj" />
   </ItemGroup>

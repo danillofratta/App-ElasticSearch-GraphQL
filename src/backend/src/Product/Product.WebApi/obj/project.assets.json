@@ -1291,7 +1291,7 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -2380,19 +2380,6 @@
           "bin/placeholder/Base.Core.Domain.dll": {}
         }
       },
-      "Base.Infrastructure.Messaging/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.2"
-        },
-        "compile": {
-          "bin/placeholder/Base.Infrastructure.Messaging.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Base.Infrastructure.Messaging.dll": {}
-        }
-      },
       "Base.WebApi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -2415,7 +2402,6 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "AutoMapper": "14.0.0",
-          "Base.Infrastructure.Messaging": "1.0.0",
           "FluentValidation": "11.11.0",
           "MediatR": "12.4.1",
           "NEST": "7.17.5",
@@ -4115,10 +4101,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.2": {
-      "sha512": "MNe7GSTBf3jQx5vYrXF0NZvn6l7hUKF6J54ENfAgCO8y6xjN1XUmKKWG464LP2ye6QqDiA1dkaWEZBYnhoZzjg==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/9.0.0": {
+      "sha512": "+6f2qv2a3dLwd5w6JanPIPs47CxRbnk+ZocMJUhv9NxP88VlOcJYZs9jY+MYSjxvady08bUZn6qgiNh7DadGgg==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.2",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/9.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4140,7 +4126,7 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -6726,11 +6712,6 @@
       "path": "../../Base/Base.Core.Domain/Base.Core.Domain.csproj",
       "msbuildProject": "../../Base/Base.Core.Domain/Base.Core.Domain.csproj"
     },
-    "Base.Infrastructure.Messaging/1.0.0": {
-      "type": "project",
-      "path": "../../Base/Base.Infrastructure.Messaging/Base.Infrastructure.Messaging.csproj",
-      "msbuildProject": "../../Base/Base.Infrastructure.Messaging/Base.Infrastructure.Messaging.csproj"
-    },
     "Base.WebApi/1.0.0": {
       "type": "project",
       "path": "../../Base/Base.WebApi/Base.WebApi.csproj",
@@ -6784,11 +6765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Product.WebApi.csproj",
+      "projectUniqueName": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Product.WebApi.csproj",
       "projectName": "Product.WebApi",
-      "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Product.WebApi.csproj",
+      "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\Product.WebApi.csproj",
       "packagesPath": "C:\\Users\\danil\\.nuget\\packages\\",
-      "outputPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\obj\\",
+      "outputPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
@@ -6813,17 +6794,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Base\\Base.WebApi\\Base.WebApi.csproj": {
-              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Base\\Base.WebApi\\Base.WebApi.csproj"
+            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Base\\Base.WebApi\\Base.WebApi.csproj": {
+              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Base\\Base.WebApi\\Base.WebApi.csproj"
             },
-            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product.Core.Application.csproj": {
-              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product.Core.Application.csproj"
+            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product.Core.Application.csproj": {
+              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Application\\Product.Core.Application.csproj"
             },
-            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Domain\\Product.Core.Domain.csproj": {
-              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Domain\\Product.Core.Domain.csproj"
+            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Domain\\Product.Core.Domain.csproj": {
+              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Core.Domain\\Product.Core.Domain.csproj"
             },
-            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Infrastructure.Orm\\Product.Infrastructure.Orm.csproj": {
-              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Infrastructure.Orm\\Product.Infrastructure.Orm.csproj"
+            "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Infrastructure.Orm\\Product.Infrastructure.Orm.csproj": {
+              "projectPath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Product\\Product.Infrastructure.Orm\\Product.Infrastructure.Orm.csproj"
             }
           }
         }

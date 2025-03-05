@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/dP0vHTTz9Y=",
+  "dgSpecHash": "TaKtgdf//ao=",
   "success": true,
-  "projectFilePath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Shared\\Shared.Infrasctructure.Orm\\Shared.Infrasctructure.Orm.csproj",
+  "projectFilePath": "C:\\1 Arquivos\\TI\\0 Dev\\GitHub\\Public\\App-ElasticSearch-GraphQL\\src\\backend\\src\\Shared\\Shared.Infrasctructure.Orm\\Shared.Infrasctructure.Orm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danil\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
