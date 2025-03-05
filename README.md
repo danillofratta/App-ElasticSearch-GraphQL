@@ -11,17 +11,18 @@ Este projeto as seguintes tecnologias:
   *	CQRS
   *	EDD  
   *	MediatR
-  *	Regis 
+  *	Redis 
   *	ElasticSeach
   *	GraphQL
   *	Entity
  
 # Projeto
 
-Feito no padrão DDD, CQRS, EDD. Quando executado algum command é disparado evento notificando handle do elastic.  
-Controlers separados para API e GraphQL  
-Exemplificado insert, udpdate e delete com graphQL.  
-Exemplicicado chamada com GraphQL para Query separadas com banco de dados e Elastic
+* Feito no padrão DDD, CQRS, EDD. 
+* Quando executado algum command é disparado evento notificando ação no elastic.  
+* Controlers separados para API e GraphQL  
+* Exemplificado insert, udpdate e delete com graphQL.  
+* Exemplicicado chamada com GraphQL para Query separadas com banco de dados e Elastic
  
 # Rodar no Dokcer:
 
